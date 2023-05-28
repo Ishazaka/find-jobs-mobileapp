@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "jobsift",
+    "slug": "jobsift",
+    "extra": {
+      "eas": {
+        "projectId": "e438b31d-f893-4078-b5fd-b188020ca385"
+      }
+    },
+    "owner": "muhammadumar4b"
+  }
+}
